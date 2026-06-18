@@ -1,0 +1,6 @@
+id,categoria,problema,solucion,derivar
+1,Contraseña,Olvidé mi contraseña,Ingrese al portal de usuarios y seleccione la opción "Restablecer contraseña",No
+2,Correo,No recibo correos,Revise la carpeta de spam y reinicie Outlook,No
+3,Internet,No tengo conexión,Reinicie el router durante 30 segundos y verifique el cable de red,No
+4,Impresora,La impresora no imprime,Verifique que la impresora esté encendida y conectada correctamente,No
+5,Software,Error desconocido,No existe una solución automática para este problema,Sí

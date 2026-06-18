@@ -1,0 +1,5 @@
+ticket,usuario,categoria,problema,estado
+1001,luis,Contraseña,Olvidé mi contraseña,Abierto
+1002,javier,Contraseña,Olvidé mi contraseña,Abierto
+1003,facundo,Contraseña,Olvidé mi contraseña,Abierto
+1004,facundo,Correo,No recibo correos,Abierto
