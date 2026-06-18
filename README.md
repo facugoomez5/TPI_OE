@@ -43,9 +43,7 @@ TPI_OE
 ├── respuestas.csv
 ├── tickets.csv
 ├── README.md
-├── Informe_TPI.pdf
-└── BPMN/
-      └── BPMN_TO_BE.pdf
+├── Informe_TPI_Organizacion_Empresarial.pdf
 ```
 
 ---
